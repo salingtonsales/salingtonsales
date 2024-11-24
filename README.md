@@ -1,7 +1,8 @@
 ### Hi there :wink:
 
 
-Hello, I'm Salington Sales, I'm 19 years old and I'm a full stack programmer.
+
+Hi, my name is Salington Sales and I'm 19 years old, I'm a full stack programmer. I am studying to pursue a career as a professional, and here I will be sharing my projects and experiences on this journey.
 
 
 ![salingtonsales GitHub stats](https://github-readme-stats.vercel.app/api?username=salingtonsales&show_icons=true&theme=radical)
