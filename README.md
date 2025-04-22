@@ -2,13 +2,18 @@
 
 
 
-Olá, sou Salington Sales, um desenvolvedor Full Stack de 19 anos apaixonado por criar soluções eficientes e inovadoras, sempre focado em melhorar a experiência do usuário e otimizar processos.
+Salington Sales | Desenvolvedor Full Stack
+Sou um desenvolvedor Full Stack apaixonado por tecnologia e resolução de problemas. Trabalho com HTML, CSS, JavaScript, Node.js, React, MySQL e MongoDB, construindo aplicações robustas, escaláveis e com foco na experiência do usuário.
 
-🔧 Tecnologias favoritas: HTML, CSS, JavaScript, Node.js, React, MySQL e MongoDB.
+Tenho interesse em boas práticas de código e  desenvolvimento de soluções que tenham impacto real. Curioso por natureza, estou sempre buscando aprender algo novo
+
+Gosto de transformar ideias em produtos e estou sempre aberto a novos desafios, colaborações e projetos
 
 🚀 Em constante evolução, gosto de transformar ideias em projetos reais. Tenho trabalhado em aplicações web que integram front-end dinâmico com back-end robusto e bancos de dados escaláveis.
 
 🌱 Atualmente aprendendo mais sobre arquitetura de software e boas práticas de desenvolvimento moderno.
+
+🔧 Tecnologias: HTML, CSS, JavaScript, Node.js, React, MySQL e MongoDB.
 
 📫 Vamos conectar
 <div>
@@ -28,7 +33,6 @@ Olá, sou Salington Sales, um desenvolvedor Full Stack de 19 anos apaixonado por
 ## 
 
 
-technologies and languages:
 <div style=" display: inline-block"><br/>
 
   <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
