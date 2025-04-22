@@ -2,7 +2,26 @@
 
 
 
-Hi, my name is Salington Sales and I'm 19 years old, I'm a full stack programmer. I am studying to pursue a career as a professional, and here I will be sharing my projects and experiences on this journey.
+Olá, sou Salington Sales, um desenvolvedor Full Stack de 19 anos apaixonado por criar soluções eficientes e inovadoras, sempre focado em melhorar a experiência do usuário e otimizar processos.
+
+🔧 Tecnologias favoritas: HTML, CSS, JavaScript, Node.js, React, MySQL e MongoDB.
+
+🚀 Em constante evolução, gosto de transformar ideias em projetos reais. Tenho trabalhado em aplicações web que integram front-end dinâmico com back-end robusto e bancos de dados escaláveis.
+
+🌱 Atualmente aprendendo mais sobre arquitetura de software e boas práticas de desenvolvimento moderno.
+
+📫 Vamos conectar
+<div>
+ 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitek)](www.linkedin.com/in/salington-sales)
+
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salington_27/)
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](salingtonsales07@gmail.com)
+
+
+ 
+</div>
 
 
 ![salingtonsales GitHub stats](https://github-readme-stats.vercel.app/api?username=salingtonsales&show_icons=true&theme=radical)
@@ -33,26 +52,9 @@ technologies and languages:
 </div>
 
 
- <br>
- <br>
- <br>
- <br>
 
 
- conect with me:
 
-
-<div>
- 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitek)](www.linkedin.com/in/salington-sales)
-
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salington_27/)
-
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](salingtonsales07@gmail.com)
-
-
- 
-</div>
 
 
 
