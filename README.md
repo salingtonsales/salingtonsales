@@ -15,7 +15,7 @@ Tenho interesse em boas práticas de código e  desenvolvimento de soluções qu
 
 🔧 Tecnologias: HTML, CSS, JavaScript, Node.js, React, MySQL e MongoDB.
 
-📫 Vamos conectar
+📫 Vamos conectar:
 <div>
  
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitek)](www.linkedin.com/in/salington-sales)
