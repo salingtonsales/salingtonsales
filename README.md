@@ -35,6 +35,9 @@ Tenho interesse em boas práticas de código e  desenvolvimento de soluções qu
 ![salingtonsales GitHub stats](https://github-readme-stats.vercel.app/api?username=salingtonsales&show_icons=true&theme=radical)
 ## 
 
+</div>
+
+
 <h3 align="center">My Stack </h3>
 <div style=" display: inline-block"><br/>
 
